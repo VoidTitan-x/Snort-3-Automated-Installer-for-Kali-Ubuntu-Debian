@@ -23,7 +23,7 @@ This repository provides a robust Bash script to build and install Snort 3 from 
 1) Clone and run:
 ```bash
 git clone https://github.com/VoidTitan-x/Snort-3-Automated-Installer-for-Kali-Ubuntu-Debian.git
-cd snort3-installer
+cd Snort-3-Automated-Installer-for-Kali-Ubuntu-Debian
 sudo bash install-snort3.sh
 ```
 
